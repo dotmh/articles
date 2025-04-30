@@ -42,3 +42,5 @@ There was also another reason that I decided to go with Windows, since about 201
 The final reason for going with Windows was for Music production. I create music as a hobby, mostly using software these days, and my key tool in this is Steinberg [Cubase](https://www.steinberg.net/cubase/). I know some alternatives run on Linux-based operating systems, but this is just a hobby, and I am not interested in learning new software so that I don’t have to use Windows. I have also invested in Cubase, as well as instruments, effects, and other plugins that work with it.
 
 The great thing about custom-building my machine is that I can decide what I put on it. If I wanna try Linux, then that is possible. Gaming on Linux is continually improving. Steam and the Steam Deck have made Linux a pretty good platform for gaming. I may try daily driving Linux in the future, though I opted for an Nvidia video card, which may make it harder to do so. For now, I am a happy Windows user.
+
+%%[cc-license]

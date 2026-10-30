@@ -1,6 +1,6 @@
 ---
 title: "My Development Heroes"
-datePublished: Wed Apr 30 2025 23:00:51 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-30T23:00:51.703Z
 cuid: cma4ji0s7000709jrem5h3x4t
 slug: my-development-heroes
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zEawlLdVloo/upload/6aa0400d79ef73f82eaa85e634322e13.jpeg

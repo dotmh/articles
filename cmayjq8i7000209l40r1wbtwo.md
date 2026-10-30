@@ -1,6 +1,6 @@
 ---
 title: "Learn Together™"
-datePublished: Wed May 21 2025 23:00:20 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-21T23:00:20.239Z
 cuid: cmayjq8i7000209l40r1wbtwo
 slug: learn-together
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/kscOvVLq2fk/upload/c154eb523b84b906327a452a5ff1930a.jpeg

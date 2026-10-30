@@ -1,6 +1,6 @@
 ---
 title: "Returning to Windows"
-datePublished: Wed Apr 23 2025 23:00:09 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-23T23:00:09.969Z
 cuid: cm9uje5wx000309kw4vya7pd0
 slug: returning-to-windows
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/AigsWJmvoEo/upload/7e3ea4a08ea495ac503e3ceb928d5125.jpeg

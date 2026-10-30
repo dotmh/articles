@@ -1,6 +1,6 @@
 ---
 title: "Learning C# in 2025"
-datePublished: Thu Sep 25 2025 15:48:35 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-09-25T15:48:35.407Z
 cuid: cmfzl86vj000002kw2dh42qyj
 slug: learning-c-in-2025
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/505eectW54k/upload/e7faba071c82e840464ad07339c48184.jpeg

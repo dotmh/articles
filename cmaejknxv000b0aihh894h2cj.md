@@ -1,6 +1,6 @@
 ---
 title: "My Typescript Stack in 2025"
-datePublished: Wed May 07 2025 23:00:36 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-07T23:00:36.787Z
 cuid: cmaejknxv000b0aihh894h2cj
 slug: my-typescript-stack-in-2025
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Y376h7VN27c/upload/69ffe6f3b73d8b0e839775ce812fa8e0.jpeg

@@ -1,6 +1,6 @@
 ---
 title: "The Great AI Fad"
-datePublished: Thu Apr 17 2025 14:18:53 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-17T14:18:53.872Z
 cuid: cm9lg4p4g002409l2fjmi6yv2
 slug: the-great-ai-fad
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ac6UGoeSUSE/upload/25f96c93985e08a428387baf091ff67b.jpeg

@@ -1,6 +1,6 @@
 ---
 title: "Typescript Type Narrowing And Assertions"
-datePublished: Tue May 13 2025 08:54:50 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-05-13T08:54:50.470Z
 cuid: cmama03ty003909jug46l6wff
 slug: typescript-type-narrowing-and-assertions
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/c8jYxRgu3UU/upload/31e7874f4ebed5e70bcd82c3311730f7.jpeg
